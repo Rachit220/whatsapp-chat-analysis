@@ -1,0 +1,18 @@
+﻿# Private chat data - never upload!
+data/
+outputs/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.env
+
+# Jupyter
+*.ipynb
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
